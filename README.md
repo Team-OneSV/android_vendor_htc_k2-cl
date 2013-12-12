@@ -1,4 +1,4 @@
-vendor_cm11
+android_vendor_htc_k2-cl
 ===========
 
-vendor k2_ul cm11
+CM11 Vendor Files for Boost HTC One SV (k2_cl)
