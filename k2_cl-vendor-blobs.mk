@@ -125,7 +125,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/k2_cl/proprietary/etc/firmware/modem.b10:system/etc/firmware/modem.b10 \
   vendor/htc/k2_cl/proprietary/etc/firmware/modem.mdt:system/etc/firmware/modem.mdt \
   vendor/htc/k2_cl/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
-  vendor/htc/k2_cl/proprietary/lib/hw/nfc.k2_cl.so:system/lib/hw/nfc.k2_cl.so \
+  vendor/htc/k2_cl/proprietary/lib/hw/nfc.k2_ul.so:system/lib/hw/nfc.k2_ul.so \
   vendor/htc/k2_cl/proprietary/etc/firmware/q6.b00:system/etc/firmware/q6.b00 \
   vendor/htc/k2_cl/proprietary/etc/firmware/q6.b01:system/etc/firmware/q6.b01 \
   vendor/htc/k2_cl/proprietary/etc/firmware/q6.b03:system/etc/firmware/q6.b03 \
